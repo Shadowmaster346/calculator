@@ -18,6 +18,8 @@ elif what == "/":
     print("Результат: " + str(c))
 elif what == "admin":
     print("Результат: 666")
+elif what == "e":
+    print("Результат: error")
 
 print("Что-бы выйти нажме Enter")
 input()
